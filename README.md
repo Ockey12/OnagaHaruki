@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=OnagaHaruki&count_private=true&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnagaHaruki&layout=compact&theme=dracula)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=OnagaHaruki&count_private=true&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnagaHaruki&layout=compact&theme=dracula) -->
+
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=OnagaHaruki&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnagaHaruki&layout=compact&theme=dracula" />
+</a>

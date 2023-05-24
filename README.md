@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=OnagaHaruki&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnagaHaruki&layout=compact&theme=dracula" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnagaHaruki&theme=dracula" />
 </a>
